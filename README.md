@@ -22,7 +22,7 @@ Neste desafio, realizamos análises exploratórias em conjuntos de dados públic
    - O arquivo `analise_python.ipynb` contém a análise realizada em Python. Ele pode ser carregado no Google Colab para interação e execução das análises.
 
 4. **Visualização:**
-   - A visualização criada está disponível no arquivo `Visualizacao_analisePython.ipynb`. Além disso, é necessário ter os seguintes dados: `chamados_parte1.csv`, `chamados_parte2.csv`, `bairros_rj.csv`, `hoteleira_ocupacao.csv`.
+   - A visualização criada está disponível no arquivo `Visualizacao_analisePython.ipynb`. Além disso, os dados a serem utilizados nesta parte estão na pasta `Dados` e são os seguintes: `chamados_parte1.csv`, `chamados_parte2.csv`, `bairros_rj.csv`, `hoteleira_ocupacao.csv`.
 
 ## Notas Adicionais
 
