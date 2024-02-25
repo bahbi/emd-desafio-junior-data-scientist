@@ -12,17 +12,17 @@ Neste desafio, realizamos análises exploratórias em conjuntos de dados públic
 
 ## Como Utilizar
 
-1. **Perguntas e Respostas:**
-   - As perguntas específicas e suas respostas estão detalhadas no arquivo `perguntas_desafio.md`.
+1. **Perguntas:**
+   - As perguntas específicas estão detalhadas no arquivo `perguntas_desafio.md`.
 
 2. **Análise em SQL:**
-   - As consultas em SQL para responder às perguntas estão disponíveis no arquivo `analise_sql.sql`. Elas podem ser carregadas como novos arquivos no BigQuery para execução.
+   - As consultas em SQL para responder às perguntas estão disponíveis no arquivo `analise_sql.sql`. Elas podem ser carregadas como novo arquivo no BigQuery para execução.
 
 3. **Análise em Python:**
    - O arquivo `analise_python.ipynb` contém a análise realizada em Python. Ele pode ser carregado no Google Colab para interação e execução das análises.
 
 4. **Visualização:**
-   - A visualização criada está disponível no arquivo `Visualizacao_analisePython.ipynb`. Além disso, os dados a serem utilizados nesta parte estão na pasta `Dados` e são os seguintes: `chamados_parte1.csv`, `chamados_parte2.csv`, `bairros_rj.csv`, `hoteleira_ocupacao.csv`.
+   - A visualização criada está disponível no arquivo `Visualizacao_analisePython.ipynb`. Além disso, os dados a serem utilizados nesta parte estão na pasta `Dados` e são os seguintes: `chamados_parte1.csv`, `chamados_parte2.csv`, `bairros_rj.csv`, `hoteleira_ocupacao.csv`. Verifique se o caminho dos dados estão de acordo no código e ele deve ser carregado no Google Colab. 
 
 ## Notas Adicionais
 
