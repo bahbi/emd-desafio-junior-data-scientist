@@ -24,7 +24,7 @@ Neste desafio, realizamos análises exploratórias em conjuntos de dados públic
 4. **Visualização:**
    - A visualização criada está disponível no arquivo `Visualizacao_analisePython.ipynb`. Além disso, os dados a serem utilizados nesta parte estão na pasta `Dados` e são os seguintes: `chamados_parte1.csv`, `chamados_parte2.csv`, `bairros_rj.csv`, `hoteleira_ocupacao.csv`. Verifique se o caminho dos dados estão de acordo no código e ele deve ser carregado no Google Colab.
 
-<img src="/assets/img/arquivo.gif">
+<img src="Captura de tela 2024-02-25 093550.png">
 
 
 ## Notas Adicionais
