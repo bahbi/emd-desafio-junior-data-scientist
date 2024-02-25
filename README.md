@@ -8,7 +8,8 @@ Neste desafio, realizamos análises exploratórias em conjuntos de dados públic
 - `perguntas_desafio.md`: Arquivo que contém as perguntas específicas e suas respostas.
 - `analise_sql.sql`: Respostas em SQL para as perguntas do desafio. Estas consultas podem ser executadas diretamente no BigQuery.
 - `analise_python.ipynb`: Respostas em Python para as perguntas do desafio. Este arquivo pode ser carregado no Google Colab.
-- `Visualizacao_analisePython.ipynb`: Arquivo  contendo visualizações criadas a partir das análises em Python com o StreamLit.
+-  `Vis_analisePython.ipynb`: Arquivo  contendo visualizações criadas a partir das análises em Python, esta visualização foi a base para o arquivo `Visualizacao_analisePython.ipynb`.
+- `Visualizacao_analisePython.ipynb`: Arquivo  contendo visualizações criadas a partir das análises em Python anexando ao StreamLit.
 
 ## Ferramentas e Recursos
 Você precisará de acesso ao Google Cloud Platform (GCP) para utilizar o BigQuery e consultar os dados públicos disponíveis no projeto datario. Além disso, vamos utilizar a biblioteca basedosdados em Python para acessar os dados do BigQuery.
@@ -28,12 +29,13 @@ Tutorial para acessar dados no BigQuery, desde a criação da conta no GCP até 
    - O arquivo `analise_python.ipynb` contém a análise realizada em Python. Ele pode ser carregado no Google Colab para interação e execução das análises.
 
 4. **Visualização:**
+   - A visualização criada está disponível no arquivo `Vis_analisePython.ipynb`. 
    - A visualização criada está disponível no arquivo `Visualizacao_analisePython.ipynb`.
-   - Os dados a serem utilizados nesta parte estão na pasta `Dados` e são os seguintes: `chamados_parte1.csv`, `chamados_parte2.csv`, `bairros_rj.csv`, `hoteleira_ocupacao.csv`.
+   - Os dados a serem utilizados nesta parte(em ambas visualizações) estão na pasta `Dados` e são os seguintes: `chamados_parte1.csv`, `chamados_parte2.csv`, `bairros_rj.csv`, `hoteleira_ocupacao.csv`.
    - Verifique se o caminho dos dados estão de acordo no código, caso seja necessário modifique para o funcionamento ser o esperado.
    - O ambiente para rodar este arquivo é o Google Colab.
 
-**Alguns insights captados**
+**Alguns insights captados **
 
 <img src="Captura de tela 2024-02-25 093550.png">
 
