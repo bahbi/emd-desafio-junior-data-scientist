@@ -10,6 +10,12 @@ Neste desafio, realizamos análises exploratórias em conjuntos de dados públic
 - `analise_python.ipynb`: Respostas em Python para as perguntas do desafio. Este arquivo pode ser carregado no Google Colab.
 - `Visualizacao_analisePython.ipynb`: Arquivo  contendo visualizações criadas a partir das análises em Python com o StreamLit.
 
+## Ferramentas e Recursos
+Você precisará de acesso ao Google Cloud Platform (GCP) para utilizar o BigQuery e consultar os dados públicos disponíveis no projeto datario. Além disso, vamos utilizar a biblioteca basedosdados em Python para acessar os dados do BigQuery.
+
+Tutorial para acessar dados no BigQuery, desde a criação da conta no GCP até consultar os dados utilizando SQL e Python. Veja mais em [Como acessar dados no BigQuery](https://docs.dados.rio/tutoriais/como-acessar-dados/#acessando-dados-via-bigquery).
+
+
 ## Como Utilizar
 
 1. **Perguntas:**
@@ -22,7 +28,10 @@ Neste desafio, realizamos análises exploratórias em conjuntos de dados públic
    - O arquivo `analise_python.ipynb` contém a análise realizada em Python. Ele pode ser carregado no Google Colab para interação e execução das análises.
 
 4. **Visualização:**
-   - A visualização criada está disponível no arquivo `Visualizacao_analisePython.ipynb`. Além disso, os dados a serem utilizados nesta parte estão na pasta `Dados` e são os seguintes: `chamados_parte1.csv`, `chamados_parte2.csv`, `bairros_rj.csv`, `hoteleira_ocupacao.csv`. Verifique se o caminho dos dados estão de acordo no código e ele deve ser carregado no Google Colab.
+   - A visualização criada está disponível no arquivo `Visualizacao_analisePython.ipynb`.
+   - Os dados a serem utilizados nesta parte estão na pasta `Dados` e são os seguintes: `chamados_parte1.csv`, `chamados_parte2.csv`, `bairros_rj.csv`, `hoteleira_ocupacao.csv`.
+   - Verifique se o caminho dos dados estão de acordo no código, caso seja necessário modifique para o funcionamento ser o esperado.
+   - O ambiente para rodar este arquivo é o Google Colab.
 
 **Alguns insights captados**
 
