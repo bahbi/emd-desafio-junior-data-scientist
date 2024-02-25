@@ -37,6 +37,8 @@ Tutorial para acessar dados no BigQuery, desde a criação da conta no GCP até 
 
 **Alguns insights captados **
 
+<img src="newplot (11).png">
+
 <img src="Captura de tela 2024-02-25 093550.png">
 
 <img src="Captura de tela 2024-02-25 093710.png">
