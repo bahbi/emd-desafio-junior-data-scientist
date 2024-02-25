@@ -8,7 +8,7 @@ Neste desafio, realizamos análises exploratórias em conjuntos de dados públic
 - `perguntas_desafio.md`: Arquivo que contém as perguntas específicas e suas respostas.
 - `analise_sql.sql`: Respostas em SQL para as perguntas do desafio. Estas consultas podem ser executadas diretamente no BigQuery.
 - `analise_python.ipynb`: Respostas em Python para as perguntas do desafio. Este arquivo pode ser carregado no Google Colab.
--  `Vis_analisePython.ipynb`: Arquivo  contendo visualizações criadas a partir das análises em Python, esta visualização foi a base para o arquivo `Visualizacao_analisePython.ipynb`.
+-  `Vis_analisePython.ipynb`: Arquivo  contendo visualizações criadas a partir das análises em Python, estas visualizações foram a base para o arquivo `Visualizacao_analisePython.ipynb`.
 - `Visualizacao_analisePython.ipynb`: Arquivo  contendo visualizações criadas a partir das análises em Python anexando ao StreamLit.
 
 ## Ferramentas e Recursos
