@@ -7,9 +7,8 @@ Neste desafio, realizamos análises exploratórias em conjuntos de dados públic
 
 - `perguntas_desafio.md`: Arquivo que contém as perguntas específicas e suas respostas.
 - `analise_sql.sql`: Respostas em SQL para as perguntas do desafio. Estas consultas podem ser executadas diretamente no BigQuery.
-- `analise_python.ipynb`: Respostas em Python para as perguntas do desafio. Este arquivo Jupyter Notebook pode ser carregado no Google Colab ou Jupyter Notebook para análise interativa.
-- `Visualizacao_analisePython.ipynb`: Arquivo Jupyter Notebook contendo visualizações criadas a partir das análises em Python.
-- [Link para o Looker Studio](#): Visualização criada no Looker Studio.
+- `analise_python.ipynb`: Respostas em Python para as perguntas do desafio. Este arquivo pode ser carregado no Google Colab.
+- `Visualizacao_analisePython.ipynb`: Arquivo  contendo visualizações criadas a partir das análises em Python com o StreamLit.
 
 ## Como Utilizar
 
@@ -23,12 +22,12 @@ Neste desafio, realizamos análises exploratórias em conjuntos de dados públic
    - O arquivo `analise_python.ipynb` contém a análise realizada em Python. Ele pode ser carregado no Google Colab ou Jupyter Notebook para interação e execução das análises.
 
 4. **Visualização:**
-   - A visualização criada está disponível no arquivo `Visualizacao_analisePython.ipynb`. Além disso, um link para o Looker Studio também é fornecido para acessar a visualização online.
+   - A visualização criada está disponível no arquivo `Visualizacao_analisePython.ipynb`. Além disso, é necessário ter os seguintes dados: `chamados_parte1.csv`, `chamados_parte2.csv`, `bairros_rj.csv`, `hoteleira_ocupacao.csv`.
 
 ## Notas Adicionais
 
 - Certifique-se de ter acesso aos conjuntos de dados mencionados no BigQuery para executar as consultas SQL.
 - Para executar o arquivo Python, é recomendável ter as bibliotecas necessárias instaladas no ambiente de execução (por exemplo, Pandas, Matplotlib, Seaborn).
-- Ao visualizar os arquivos Jupyter Notebook, lembre-se de executar as células de código para ver os resultados das análises.
+- Ao visualizar os arquivos, lembre-se de executar as células de código para ver os resultados das análises.
 
 Este desafio proporcionou uma oportunidade de praticar análise de dados utilizando SQL e Python, além de criar visualizações para comunicar insights de forma eficaz.
